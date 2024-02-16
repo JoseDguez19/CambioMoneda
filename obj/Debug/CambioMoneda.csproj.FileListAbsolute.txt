@@ -1,0 +1,7 @@
+C:\Users\ap550\source\repos\CambioMoneda\bin\Debug\CambioMoneda.exe.config
+C:\Users\ap550\source\repos\CambioMoneda\bin\Debug\CambioMoneda.exe
+C:\Users\ap550\source\repos\CambioMoneda\bin\Debug\CambioMoneda.pdb
+C:\Users\ap550\source\repos\CambioMoneda\obj\Debug\CambioMoneda.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\CambioMoneda\obj\Debug\CambioMoneda.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\CambioMoneda\obj\Debug\CambioMoneda.exe
+C:\Users\ap550\source\repos\CambioMoneda\obj\Debug\CambioMoneda.pdb
